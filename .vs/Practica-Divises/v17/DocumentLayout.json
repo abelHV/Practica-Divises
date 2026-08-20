@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\practica-divises\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|c:\\users\\abel\\desktop\\dam2-pendent\\dam2-pla-antic\\llibreria-classes\\practica-divises\\practica-divises\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\practica-divises\\clases\\clapihexarate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\clases\\clapihexarate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\practica-divises\\clases\\cldivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\clases\\cldivisas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\practica-divises\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\practica-divises\\clases\\clratesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF6C736-F582-4EC0-9DD3-C813170CF6AA}|Practica-Divises\\Practica-Divises.csproj|solutionrelative:practica-divises\\clases\\clratesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClDivisas.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClDivisas.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\CLASES\\ClDivisas.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClDivisas.cs",
+              "RelativeToolTip": "Practica-Divises\\CLASES\\ClDivisas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:01:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClratesDB.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClratesDB.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\CLASES\\ClratesDB.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClratesDB.cs",
+              "RelativeToolTip": "Practica-Divises\\CLASES\\ClratesDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:00:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.Designer.cs",
+              "RelativeToolTip": "Practica-Divises\\FrmMain.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAlwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:52:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClAPIHexaRate.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClAPIHexaRate.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\CLASES\\ClAPIHexaRate.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\CLASES\\ClAPIHexaRate.cs",
+              "RelativeToolTip": "Practica-Divises\\CLASES\\ClAPIHexaRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:43:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.cs",
+              "RelativeToolTip": "Practica-Divises\\FrmMain.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:37:15.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Practica-Divises\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-PLA-ANTIC\\LLIBRERIA-CLASSES\\Practica-Divises\\Practica-Divises\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica-Divises\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:17:16.453Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
